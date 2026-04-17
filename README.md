@@ -1,5 +1,5 @@
 # Comcast
-Comcast SRE coding challange
+Comcast coding challange
 
 
 You and Fredrick are good friends. Yesterday, Fredrick received N credit cards from ABCD Bank. He wants to verify whether his credit card numbers are valid or not. You happen to be great at regex so he is asking for your help!
